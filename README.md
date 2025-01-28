@@ -35,4 +35,4 @@ The repository aims to:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/mips-low-level.git
+   git clone https://github.com/RafaelGomes8994/Mips.git
